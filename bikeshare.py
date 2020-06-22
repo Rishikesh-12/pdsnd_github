@@ -13,7 +13,7 @@ months = ('january', 'february', 'march', 'april', 'may', 'june')
 weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
             'saturday')
 
-
+ 
 def choice(prompt, choices=('y', 'n')):
     """Return a valid input from the user given an array of possible answers.
     """
@@ -40,6 +40,7 @@ def choice(prompt, choices=('y', 'n')):
 
 
 def get_filters():
+    
     """Ask user to specify city(ies) and filters, month(s) and weekday(s).
     Returns:
         (str) city - name of the city(ies) to analyze
