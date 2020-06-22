@@ -12,5 +12,5 @@ In this project, I used Python to explore data related to bike share systems for
 
 ### Credits
 
-https://udacity.com for thier wonderful course materials
+* https://udacity.com for thier wonderful course materials
 https://stackoverflow.com for answer to many queries 
